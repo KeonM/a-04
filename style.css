@@ -1,0 +1,19 @@
+* {
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: green;
+}
+
+.container {
+    text-align: center;
+}
